@@ -78,3 +78,5 @@ Events in the feed are sorted in descending order by `votesCount`, pushing high-
 2. **Phase 2:** Implement Security (JWT) and basic CRUD for events.
 3. **Phase 3:** Develop voting logic and `@Scheduled` task for automated bans.
 4. **Phase 4:** Build the React frontend: feed, user dashboard, and voting interface.
+
+*ufck* means **U**FCK is **F**ellas-based **C**hain of **K**itties
